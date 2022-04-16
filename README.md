@@ -4,6 +4,9 @@
 # to start
 commands-
 npm i
+cd backend
+cd server
+npm start
 
 
 # register
